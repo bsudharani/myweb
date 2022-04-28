@@ -1,5 +1,6 @@
 <html>
 <body>
-	<h1 style="color: green; font-size: 40px;" align="center">  GANA TECH APP VERSION-108</h1>
+	<h1 style="color: SKY BLUE; font-size: 60px;" align="center">  DD VENKAT </h1>
+	<P>HE IS BELONGS TO VIJAYAWADA</P>
 </body>
 </html>
