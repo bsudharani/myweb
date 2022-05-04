@@ -1,6 +1,6 @@
 <html>
 <body>
-	<h1 style="color: GREEN; font-size: 60px;" align="center">  sudha rani </h1>
-	<P>SHE IS BELONGS TO KADAPA</P>
+	<h1 style="color: RED; font-size: 60px;" align="center">  B sudha rani </h1>
+	<P>workiing in hyderabad</P>
 </body>
 </html>
