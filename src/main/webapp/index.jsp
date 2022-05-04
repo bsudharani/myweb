@@ -1,6 +1,6 @@
 <html>
 <body>
-	<h1 style="color: GOLD; font-size: 60px;" align="center">  DD VENKAT </h1>
-	<P>HE IS BELONGS TO VIJAYAWADA</P>
+	<h1 style="color: GREEN; font-size: 60px;" align="center">  sudha rani </h1>
+	<P>SHE IS BELONGS TO KADAPA</P>
 </body>
 </html>
